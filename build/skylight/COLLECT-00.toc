@@ -1,0 +1,294 @@
+([('skylight.exe', 'E:\\skylight\\build\\skylight\\skylight.exe', 'EXECUTABLE'),
+  ('skylight.exe.manifest',
+   'E:\\skylight\\build\\skylight\\skylight.exe.manifest',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python39.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('_multiprocessing',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'E:\\skylight\\lib\\_cffi_backend.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'E:\\skylight\\lib\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('bcrypt._bcrypt', 'E:\\skylight\\lib\\bcrypt\\_bcrypt.pyd', 'EXTENSION'),
+  ('nacl._sodium', 'E:\\skylight\\lib\\nacl\\_sodium.pyd', 'EXTENSION'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Anish '
+   'Katukam\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('python3.dll',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\python3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'E:\\skylight\\build\\skylight\\base_library.zip',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\LICENSE.BSD',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\RECORD',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\METADATA',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\LICENSE.APACHE',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\Include\\pyconfig.h',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\INSTALLER',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\top_level.txt',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\LICENSE.PSF',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\LICENSE',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-3.4.6-py3.9.egg-info\\WHEEL',
+   'c:\\users\\anish '
+   'katukam\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.6.dist-info\\WHEEL',
+   'DATA'),
+  ('post.txt', 'post.txt', 'DATA'),
+  ('resources\\tag.txt', 'resources\\tag.txt', 'DATA'),
+  ('resources\\key.pem', 'resources\\key.pem', 'DATA')],)
